@@ -2,7 +2,7 @@
 
 Welcome to the SAP Data Reporting repository! This repository contains data visualization reports based on SAP downloaded data. The data provided is connected to a hypothetical bike company, offering insights and analysis for better decision-making.
 
-## Contents
+## 💾 Contents
 
 **Excel Data File:** This file contains the raw data extracted from SAP in Excel format. The data includes various metrics and dimensions related to the bike company's operations, such as sales, inventory, and customer information.
 
