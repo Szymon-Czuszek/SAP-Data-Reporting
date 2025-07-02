@@ -18,7 +18,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 **🔥 Continuous Improvement:** Regularly update and refine the Power BI report to reflect the latest information and business requirements. Incorporate feedback from stakeholders and explore new ways to visualize and analyze the data for better decision-making.
 
-## About the Bike Company
+## 📄 About the Bike Company
 
 The bike company represented in this data is fictional and serves as a model for analysis and reporting purposes. The data extracted from SAP reflects simulated transactions and activities within the company's operations, providing a basis for understanding and improving its performance.
 
