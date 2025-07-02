@@ -1,4 +1,4 @@
-# SAP Data Reporting Repository
+# 🖥 SAP Data Reporting Repository
 
 Welcome to the SAP Data Reporting repository! This repository contains data visualization reports based on SAP downloaded data. The data provided is connected to a hypothetical bike company, offering insights and analysis for better decision-making.
 
