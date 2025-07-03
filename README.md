@@ -8,7 +8,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 **📋 Power BI Report:** A Power BI report created using the Excel data file. This report includes interactive visualizations, dashboards, and analyses of the bike company's performance based on the SAP data. Users can explore and drill down into different aspects of the data to uncover insights and trends.
 
-**Graphic Showing the Data Model:** A visual representation of the data model used in the Power BI report. This graphic illustrates the relationships between different entities and attributes within the data, providing a clear understanding of how the information is structured and connected.
+**📊 Graphic Showing the Data Model:** A visual representation of the data model used in the Power BI report. This graphic illustrates the relationships between different entities and attributes within the data, providing a clear understanding of how the information is structured and connected.
 
 ## Usage
 
