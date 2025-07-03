@@ -6,7 +6,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 **📈 Excel Data File:** This file contains the raw data extracted from SAP in Excel format. The data includes various metrics and dimensions related to the bike company's operations, such as sales, inventory, and customer information.
 
-**Power BI Report:** A Power BI report created using the Excel data file. This report includes interactive visualizations, dashboards, and analyses of the bike company's performance based on the SAP data. Users can explore and drill down into different aspects of the data to uncover insights and trends.
+**📋 Power BI Report:** A Power BI report created using the Excel data file. This report includes interactive visualizations, dashboards, and analyses of the bike company's performance based on the SAP data. Users can explore and drill down into different aspects of the data to uncover insights and trends.
 
 **Graphic Showing the Data Model:** A visual representation of the data model used in the Power BI report. This graphic illustrates the relationships between different entities and attributes within the data, providing a clear understanding of how the information is structured and connected.
 
