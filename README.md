@@ -10,7 +10,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 **📊 Graphic Showing the Data Model:** A visual representation of the data model used in the Power BI report. This graphic illustrates the relationships between different entities and attributes within the data, providing a clear understanding of how the information is structured and connected.
 
-## Usage
+## 🧠 Usage
 
 **Data Analysis:** Utilize the Power BI report to perform in-depth analysis of the bike company's performance across various metrics and dimensions. Explore different visualizations and filters to gain insights into sales trends, customer behavior, and more.
 
