@@ -22,6 +22,6 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 The bike company represented in this data is fictional and serves as a model for analysis and reporting purposes. The data extracted from SAP reflects simulated transactions and activities within the company's operations, providing a basis for understanding and improving its performance.
 
-## Contributing
+## 🤝 Contributing
 
 If you have suggestions for improving the Power BI report or ideas for additional analyses, please consider contributing to the repository. Fork the project, make your changes, and submit a pull request. Your contributions are valuable and help enhance the value of the reports for the community.
