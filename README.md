@@ -12,7 +12,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 ## 🧠 Usage
 
-**Data Analysis:** Utilize the Power BI report to perform in-depth analysis of the bike company's performance across various metrics and dimensions. Explore different visualizations and filters to gain insights into sales trends, customer behavior, and more.
+**📉 Data Analysis:** Utilize the Power BI report to perform in-depth analysis of the bike company's performance across various metrics and dimensions. Explore different visualizations and filters to gain insights into sales trends, customer behavior, and more.
 
 **Decision Making:** Leverage the insights derived from the Power BI report to make informed decisions regarding sales strategies, inventory management, marketing campaigns, and other aspects of the bike company's operations.
 
