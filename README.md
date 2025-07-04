@@ -14,7 +14,7 @@ Welcome to the SAP Data Reporting repository! This repository contains data visu
 
 **📉 Data Analysis:** Utilize the Power BI report to perform in-depth analysis of the bike company's performance across various metrics and dimensions. Explore different visualizations and filters to gain insights into sales trends, customer behavior, and more.
 
-**Decision Making:** Leverage the insights derived from the Power BI report to make informed decisions regarding sales strategies, inventory management, marketing campaigns, and other aspects of the bike company's operations.
+**🎯 Decision Making:** Leverage the insights derived from the Power BI report to make informed decisions regarding sales strategies, inventory management, marketing campaigns, and other aspects of the bike company's operations.
 
 **🔥 Continuous Improvement:** Regularly update and refine the Power BI report to reflect the latest information and business requirements. Incorporate feedback from stakeholders and explore new ways to visualize and analyze the data for better decision-making.
 
